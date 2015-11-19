@@ -1,0 +1,52 @@
+.dayTime {
+    width: 100%;
+    text-align: center;
+        border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+
+
+.table .weekTime {
+    width: 15px;
+    padding: 0px;
+    vertical-align: inherit;
+}
+
+.projectTable {
+
+  border: 1px solid #ddd;
+}
+
+
+
+.sucsess {
+    background: #e2e2e2;
+    background: -moz-linear-gradient(left, #5cb85c   0%,#5cb85c   20%,#faf7fa 100%,#faf7fa 100%);
+    background: -webkit-linear-gradient(left, #5cb85c 0%,#5cb85c 20%,#faf7fa 100%,#faf7fa 100%);
+    background: -o-linear-gradient(left, #5cb85c 0%,#5cb85c 20%,#faf7fa 100%,#faf7fa 100%);
+    background: -ms-linear-gradient(left, #5cb85c 0%,#5cb85c 20%,#faf7fa 100%,#faf7fa 100%);
+    background: linear-gradient(left, #5cb85c 0%,#5cb85c 20%,#faf7fa 100%,#faf7fa 100%);
+    padding: 10px;
+   }
+
+.await {
+    background: #e2e2e2;
+    background: -moz-linear-gradient(left, #07bcf8 0%,#07bcf8 20%,#faf7fa 100%,#faf7fa 100%);
+    background: -webkit-linear-gradient(left, #07bcf8 0%,#07bcf8 20%,#faf7fa 100%,#faf7fa 100%);
+    background: -o-linear-gradient(left, #07bcf8 0%,#07bcf8 20%,#faf7fa 100%,#faf7fa 100%);
+    background: -ms-linear-gradient(left, #07bcf8 0%,#07bcf8 20%,#faf7fa 100%,#faf7fa 100%);
+    background: linear-gradient(left, #07bcf8 0%,#07bcf8 20%,#faf7fa 100%,#faf7fa 100%);
+    padding: 10px;
+   }
+
+.error {
+    background: #e2e2e2;
+    background: -moz-linear-gradient(left, #e15959 0%,#e15959 20%,#faf7fa 100%,#faf7fa 100%);
+    background: -webkit-linear-gradient(left, #e15959 0%,#e15959 20%,#faf7fa 100%,#faf7fa 100%);
+    background: -o-linear-gradient(left, #e15959 0%,#e15959 20%,#faf7fa 100%,#faf7fa 100%);
+    background: -ms-linear-gradient(left, #e15959 0%,#e15959 20%,#faf7fa 100%,#faf7fa 100%);
+    background: linear-gradient(left, #e15959 0%,#e15959 20%,#faf7fa 100%,#faf7fa 100%);
+    padding: 10px;
+   }
